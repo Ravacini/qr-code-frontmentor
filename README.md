@@ -1,6 +1,7 @@
 # Challange Qrcode FrontMentor
 
 
+can you acess the site on the link https://ravacini.github.io/qr-code-frontmentor/qr-code.html
 
 <strong>375px of width </strong>
 
